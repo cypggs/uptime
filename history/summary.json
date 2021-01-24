@@ -4,9 +4,9 @@
     "url": "https://www.cypggs.com",
     "icon": "https://favicons.githubusercontent.com/www.cypggs.com",
     "slug": "cypggs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 977,
     "timeMonth": 1002,
     "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "76.02%",
+    "uptime": "75.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.02%",
+    "uptimeYear": "75.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-24": 48,
+      "2021-01-24": 537,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 1440,
