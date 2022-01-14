@@ -4,7 +4,7 @@
     "url": "https://www.cypggs.com",
     "icon": "https://favicons.githubusercontent.com/www.cypggs.com",
     "slug": "cypggs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "96.65%",
     "uptimeWeek": "98.74%",
@@ -141,7 +141,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-14": 173,
+      "2022-01-14": 194,
       "2022-01-13": 1440,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
