@@ -6,17 +6,17 @@
     "slug": "cypggs",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.32%",
     "time": 1138,
-    "timeDay": 955,
-    "timeWeek": 1012,
-    "timeMonth": 976,
+    "timeDay": 1066,
+    "timeWeek": 1035,
+    "timeMonth": 984,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2022-05-10": 30,
+      "2022-05-10": 17,
       "2022-05-09": 24,
       "2022-05-01": 17,
       "2022-02-25": 16,
@@ -53,7 +53,8 @@
       "2021-07-11": 242,
       "2021-07-10": 315,
       "2021-07-09": 96,
-      "2021-07-06": 18
+      "2021-07-06": 18,
+      "2021-07-04": 15
     }
   },
   {
@@ -68,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 31,
-    "timeWeek": 176,
-    "timeMonth": 193,
+    "timeDay": 170,
+    "timeWeek": 168,
+    "timeMonth": 191,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2022-03-01": 22
@@ -88,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 147,
-    "timeWeek": 307,
+    "timeDay": 435,
+    "timeWeek": 317,
     "timeMonth": 311,
     "timeYear": 328,
     "dailyMinutesDown": {
@@ -133,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-10": 1245,
+      "2022-05-11": 58,
+      "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
@@ -496,8 +498,7 @@
       "2021-05-15": 1440,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
-      "2021-05-12": 1440,
-      "2021-05-11": 1440
+      "2021-05-12": 1440
     }
   }
 ]
