@@ -6,17 +6,16 @@
     "slug": "cypggs",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.31%",
-    "time": 1138,
-    "timeDay": 2211,
-    "timeWeek": 1184,
-    "timeMonth": 1092,
-    "timeYear": 1105,
+    "time": 1137,
+    "timeDay": 2120,
+    "timeWeek": 1158,
+    "timeMonth": 1082,
+    "timeYear": 1104,
     "dailyMinutesDown": {
-      "2022-06-10": 10,
       "2022-05-31": 34,
       "2022-05-18": 35,
       "2022-05-17": 18,
@@ -60,7 +59,7 @@
       "2021-07-14": 30,
       "2021-07-12": 20,
       "2021-07-11": 242,
-      "2021-07-10": 156
+      "2021-07-10": 175
     }
   },
   {
@@ -75,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 152,
-    "timeWeek": 170,
-    "timeMonth": 197,
-    "timeYear": 226,
+    "timeDay": 73,
+    "timeWeek": 136,
+    "timeMonth": 193,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2022-03-01": 22
     }
@@ -94,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 334,
-    "timeDay": 223,
-    "timeWeek": 263,
-    "timeMonth": 258,
-    "timeYear": 319,
+    "time": 333,
+    "timeDay": 95,
+    "timeWeek": 227,
+    "timeMonth": 248,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2022-05-19": 31,
       "2022-01-19": 17,
@@ -130,7 +129,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.92%",
+    "uptime": "18.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-10": 896,
+      "2022-06-11": 51,
+      "2022-06-10": 1440,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
@@ -504,8 +504,7 @@
       "2021-06-15": 1440,
       "2021-06-14": 1440,
       "2021-06-13": 1440,
-      "2021-06-12": 1440,
-      "2021-06-11": 1440
+      "2021-06-12": 1440
     }
   }
 ]
