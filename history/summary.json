@@ -6,15 +6,15 @@
     "slug": "cypggs",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.30%",
-    "time": 1134,
-    "timeDay": 852,
-    "timeWeek": 889,
-    "timeMonth": 951,
-    "timeYear": 1100,
+    "time": 1133,
+    "timeDay": 717,
+    "timeWeek": 858,
+    "timeMonth": 931,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2022-06-17": 39,
       "2022-05-31": 34,
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 622,
-    "timeWeek": 469,
-    "timeMonth": 255,
+    "timeDay": 145,
+    "timeWeek": 459,
+    "timeMonth": 246,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-03-01": 22
@@ -95,9 +95,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 332,
-    "timeDay": 190,
-    "timeWeek": 309,
-    "timeMonth": 257,
+    "timeDay": 131,
+    "timeWeek": 280,
+    "timeMonth": 250,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2022-05-19": 31,
@@ -130,7 +130,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.71%",
+    "uptime": "18.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -141,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 54,
+      "2022-06-19": 54,
+      "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -504,8 +505,7 @@
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
-      "2021-06-20": 1440,
-      "2021-06-19": 1440
+      "2021-06-20": 1440
     }
   }
 ]
