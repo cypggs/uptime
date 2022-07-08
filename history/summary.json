@@ -4,18 +4,19 @@
     "url": "https://www.cypggs.com",
     "icon": "https://favicons.githubusercontent.com/www.cypggs.com",
     "slug": "cypggs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "95.93%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.31%",
-    "time": 1112,
+    "time": 1111,
     "timeDay": 841,
     "timeWeek": 836,
     "timeMonth": 927,
     "timeYear": 1082,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-07-07": 59,
       "2022-07-06": 22,
       "2022-07-04": 35,
@@ -66,7 +67,7 @@
       "2021-07-15": 15,
       "2021-07-14": 30,
       "2021-07-12": 20,
-      "2021-07-11": 127
+      "2021-07-11": 105
     }
   },
   {
@@ -147,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-08": 60,
+      "2022-07-08": 204,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
