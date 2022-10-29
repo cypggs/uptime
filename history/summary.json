@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cypggs.com.ico",
     "slug": "cypggs",
     "status": "down",
-    "uptime": "99.11%",
+    "uptime": "98.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.61%",
-    "uptimeMonth": "88.63%",
-    "uptimeYear": "98.55%",
-    "time": 1065,
+    "uptimeWeek": "36.43%",
+    "uptimeMonth": "85.37%",
+    "uptimeYear": "98.28%",
+    "time": 1064,
     "timeDay": 0,
-    "timeWeek": 930,
-    "timeMonth": 889,
+    "timeWeek": 963,
+    "timeMonth": 884,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2022-10-28": 67,
+      "2022-10-29": 57,
+      "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
@@ -74,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 106,
-    "timeWeek": 266,
-    "timeMonth": 206,
+    "timeDay": 136,
+    "timeWeek": 271,
+    "timeMonth": 198,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2022-03-01": 22
@@ -94,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 315,
-    "timeDay": 311,
-    "timeWeek": 334,
-    "timeMonth": 316,
+    "timeDay": 279,
+    "timeWeek": 324,
+    "timeMonth": 309,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2022-07-08": 492,
@@ -129,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.66%",
+    "uptime": "15.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -140,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 68,
+      "2022-10-29": 57,
+      "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
@@ -503,8 +505,7 @@
       "2021-11-02": 1440,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
-      "2021-10-30": 1440,
-      "2021-10-29": 1440
+      "2021-10-30": 1440
     }
   }
 ]
