@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cypggs.com.ico",
     "slug": "cypggs",
     "status": "down",
-    "uptime": "96.74%",
+    "uptime": "96.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.99%",
-    "uptimeMonth": "32.90%",
-    "uptimeYear": "93.94%",
+    "uptimeWeek": "30.69%",
+    "uptimeMonth": "29.61%",
+    "uptimeYear": "93.66%",
     "time": 1061,
     "timeDay": 0,
-    "timeWeek": 855,
-    "timeMonth": 854,
+    "timeWeek": 901,
+    "timeMonth": 853,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2022-11-21": 57,
+      "2022-11-22": 58,
+      "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -90,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 188,
-    "timeWeek": 255,
-    "timeMonth": 249,
+    "timeDay": 145,
+    "timeWeek": 231,
+    "timeMonth": 251,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-03-01": 22
@@ -110,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 315,
-    "timeDay": 458,
-    "timeWeek": 345,
-    "timeMonth": 326,
-    "timeYear": 308,
+    "timeDay": 384,
+    "timeWeek": 361,
+    "timeMonth": 327,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2022-07-08": 492,
       "2022-05-19": 31,
@@ -145,7 +146,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.21%",
+    "uptime": "15.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -156,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-21": 57,
+      "2022-11-22": 58,
+      "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -519,8 +521,7 @@
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
-      "2021-11-23": 1440,
-      "2021-11-22": 1440
+      "2021-11-23": 1440
     }
   }
 ]
