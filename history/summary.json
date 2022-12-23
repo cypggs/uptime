@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cypggs.com.ico",
     "slug": "cypggs",
     "status": "down",
-    "uptime": "92.67%",
+    "uptime": "92.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.53%",
-    "time": 1058,
+    "uptimeYear": "85.26%",
+    "time": 1057,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2022-12-22": 48,
+      "2022-12-23": 44,
+      "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
@@ -117,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 109,
-    "timeWeek": 223,
-    "timeMonth": 224,
-    "timeYear": 223,
+    "time": 233,
+    "timeDay": 601,
+    "timeWeek": 293,
+    "timeMonth": 237,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2022-03-01": 22
     }
@@ -138,9 +139,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 313,
-    "timeDay": 192,
-    "timeWeek": 358,
-    "timeMonth": 306,
+    "timeDay": 280,
+    "timeWeek": 375,
+    "timeMonth": 301,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2022-11-23": 20,
@@ -173,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "14.66%",
+    "uptime": "14.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -184,7 +185,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-22": 48,
+      "2022-12-23": 44,
+      "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
@@ -547,8 +549,7 @@
       "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
-      "2021-12-24": 1440,
-      "2021-12-23": 1440
+      "2021-12-24": 1440
     }
   }
 ]
