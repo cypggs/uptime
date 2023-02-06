@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cypggs.com.ico",
     "slug": "cypggs",
     "status": "down",
-    "uptime": "87.34%",
+    "uptime": "87.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.38%",
+    "uptimeYear": "73.10%",
     "time": 1046,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-02-05": 53,
+      "2023-02-06": 46,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -159,8 +160,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 75,
-    "timeWeek": 137,
+    "timeDay": 144,
+    "timeWeek": 138,
     "timeMonth": 197,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -179,9 +180,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 309,
-    "timeDay": 106,
-    "timeWeek": 140,
-    "timeMonth": 280,
+    "timeDay": 342,
+    "timeWeek": 173,
+    "timeMonth": 277,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2022-11-23": 20,
@@ -213,7 +214,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.93%",
+    "uptime": "13.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -224,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-05": 54,
+      "2023-02-06": 46,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -587,8 +589,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   }
 ]
