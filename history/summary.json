@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cypggs.com.ico",
     "slug": "cypggs",
     "status": "down",
-    "uptime": "83.97%",
+    "uptime": "83.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.02%",
-    "uptimeYear": "63.54%",
+    "uptimeMonth": "55.74%",
+    "uptimeYear": "63.27%",
     "time": 1015,
     "timeDay": 0,
     "timeWeek": 432,
-    "timeMonth": 683,
+    "timeMonth": 679,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-04-06": 43,
+      "2023-04-07": 39,
+      "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
@@ -194,9 +195,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 180,
-    "timeWeek": 202,
-    "timeMonth": 213,
+    "timeDay": 331,
+    "timeWeek": 225,
+    "timeMonth": 211,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2023-02-16": 16
@@ -213,10 +214,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.88%",
-    "time": 307,
-    "timeDay": 457,
-    "timeWeek": 323,
-    "timeMonth": 351,
+    "time": 306,
+    "timeDay": 105,
+    "timeWeek": 298,
+    "timeMonth": 341,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2023-03-31": 17,
@@ -252,7 +253,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.07%",
+    "uptime": "13.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -263,7 +264,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-06": 43,
+      "2023-04-07": 39,
+      "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
@@ -626,8 +628,7 @@
       "2022-04-11": 1440,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
-      "2022-04-08": 1440,
-      "2022-04-07": 1440
+      "2022-04-08": 1440
     }
   }
 ]
